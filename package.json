@@ -1,0 +1,13 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "pari-o-dispari": "node pari-o-dispari.js",
+    "conta-vocali": "node conta-vocali.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
